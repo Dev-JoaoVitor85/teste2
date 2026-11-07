@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    text-transform: capitalize;
+    width: 50%;
+   margin:auto;
+}
+
+h1 {
+    font-size: 40px;
+    color: rgb(155, 194, 238);
+    background-color: #0303b8;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    margin: auto;
+    background-color: #c5c5c9;
+    border-bottom: 3px solid;
+    color: #0303b8;
+    padding: 10px;
+}
+
+ul {
+    padding-left: 0px;
+}
+li{
+    list-style-position:inside;
+}

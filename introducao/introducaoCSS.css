@@ -1,0 +1,22 @@
+h1 {
+    color: #e4e0e2;
+    font-size: 100px;
+    text-align: center;
+    text-transform: capitalize;
+    font-family: helvetica;
+    background-color: rgb(80, 0, 146);
+
+}
+
+.texto1 {
+    color: red;
+
+}
+
+.tetxo2 {
+    color: rgb(15, 0, 153);
+}
+
+body {
+    background-color: #c5c5c5;
+}
